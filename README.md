@@ -2,9 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![Languages](https://img.shields.io/github/languages/top/OneSAHDEVSINH/StudentCRUDApplicationDotNetCore)
-![image](https://github.com/user-attachments/assets/bf121b65-1054-447c-ba9e-ac1d57ad23da)
-![image](https://github.com/user-attachments/assets/36661dd9-7624-4a9d-af32-441d4ea887fe)
-![image](https://github.com/user-attachments/assets/8d0bb864-5ffa-4fb5-91ed-8c3ad964642e)
+![image](https://github.com/user-attachments/assets/4eec2375-781c-4ddd-b8d6-d7c7a453cf34)
+![image](https://github.com/user-attachments/assets/c71e133a-6f29-4d7b-857b-63261299add5)
+![image](https://github.com/user-attachments/assets/bd3a866d-bd47-4305-99f5-169a297b558e)
+
 
 A **Student CRUD Application** built with **ASP.NET Core**, designed to handle basic operations like **Create**, **Read**, **Update**, and **Delete** for managing student data. This application showcases the use of **C#** as the backend language with a responsive front-end powered by **HTML**, **CSS**, and **JavaScript**.
 
